@@ -34,11 +34,11 @@
   <p>Вы можете запросить доступ, исправление или удаление данных, а также отозвать согласие.</p>
 
   <h2>Удаление данных (User Data Deletion)</h2>
-  <p>Чтобы удалить свои данные, отправьте запрос на <a href="mailto:support@yourdomain.com">support@yourdomain.com</a>
+  <p>Чтобы удалить свои данные, отправьте запрос на <a href="mailto:support@freshman.careers">support@yourdomain.com</a>
   или используйте настройку в профиле приложения (если доступна). Мы удалим данные в течение 30 дней.</p>
 
   <h2>Контакты</h2>
   <p>ООО «Ваша компания»<br>
-     Email: <a href="mailto:support@yourdomain.com">support@yourdomain.com</a></p>
+     Email: <a href="mailto:support@freshman.careers">support@yourdomain.com</a></p>
 </body>
 </html>
