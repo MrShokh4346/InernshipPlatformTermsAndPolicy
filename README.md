@@ -1,11 +1,10 @@
 # InernshipPlatformTermsAndPolicy
-<!doctype html>
+
 <html lang="ru">
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Политика конфиденциальности — YourApp</title>
-  <style>body{max-width:800px;margin:40px auto;padding:0 16px;font:16px/1.6 system-ui}</style>
+
 </head>
 <body>
   <h1>Политика конфиденциальности YourApp</h1>
